@@ -8,5 +8,6 @@ public class Main {
         System.out.println("再次提交新代码");
         System.out.println("第三次提交新代码");
         System.out.println("李四次提交新代码");
+        System.out.println("李四次提交新代码");
     }
 }
