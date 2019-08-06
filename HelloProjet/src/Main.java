@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("再次提交新代码");
 		System.out.println("王五提交新代码");
+		System.out.println("王五提交新代码");
     }
 }
